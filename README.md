@@ -49,6 +49,6 @@ for (let i=0; i< array.length -1; i++){
 
 ## Contacts
 
-email : justus.onyancha@moringaschool.com
+`email : justus.onyancha@moringaschool.com`
 
 I created this with love and coffee
