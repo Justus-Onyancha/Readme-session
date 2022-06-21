@@ -24,3 +24,4 @@ for (let i=0; i< array.length -1; i++){
 
 -[This is the API link](https://docs.github.com/en/rest)
  
+![Alt text](./images/pexels-thisisengineering-3861972.jpg)
