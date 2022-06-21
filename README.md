@@ -17,6 +17,10 @@ User stories/what id does
 - css & Bootstrap
 - Javascript
 
+## How it works
+-login
+us
+
 ## API
 
 ### GET USERS ENDPOINT
@@ -39,8 +43,12 @@ for (let i=0; i< array.length -1; i++){
 
 ## Known Bugs
 
-## Conatacts
+| Behavior | Input   | Ourout  |
+|----------|:-------:|--------:|
+| This is a desription of a table| Json  | API |
 
-email 
+## Contacts
+
+email : justus.onyancha@moringaschool.com
 
 I created this with love and coffee
